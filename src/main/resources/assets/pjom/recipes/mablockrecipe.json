@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        "MMM",
+        "MMM",
+        "MMM"
+    ],
+   
+    "key":
+    {
+        "M":
+        {
+            "item": "pjom:maingot"
+        }
+    },
+   
+    "result":
+    {
+        "item": "pjom:mablock",
+        "count": 1
+    }
+}

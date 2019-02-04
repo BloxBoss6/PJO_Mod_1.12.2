@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "group": "cbtools",
+    "pattern": [
+        "CC",
+        " R",
+        " R"
+    ],
+    "key": {
+        "C": {
+            "item": "pjom:cbingot"
+        },
+        "R": {
+            "item": "pjom:cbrod"
+        }
+    },
+    "result": {
+        "item": "pjom:cbhoe",
+        "count": 1
+    }
+}

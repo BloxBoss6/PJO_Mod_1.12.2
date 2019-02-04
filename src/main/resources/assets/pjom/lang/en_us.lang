@@ -1,0 +1,41 @@
+// Celestial Bronze
+item.cbingot.name=Celestial Bronze Ingot
+item.cbrod.name=Celestial Bronze Rod
+tile.cbore.name=Celestial Bronze Ore
+item.cbsword.name=Celestial Bronze Sword
+item.cbknife.name=Celestial Bronze Knife
+item.cbaxe.name=Celestial Bronze Axe
+item.cbpickaxe.name=Celestial Bronze Pickaxe
+item.cbshovel.name=Celestial Bronze Shovel
+item.cbhoe.name=Celestial Bronze Hoe
+item.cbhelmet.name=Celestial Bronze Helmet
+item.cbchestplate.name=Celestial Bronze Chestplate
+item.cbleggings.name=Celestial Bronze Leggings
+item.cbboots.name=Celestial Bronze Boots
+
+// Imperial Gold
+item.igingot.name=Imperial Gold Ingot
+item.igrod.name=Imperial Gold Rod
+item.igsword.name=Imperial Gold Sword
+item.igknife.name=Imperial Gold Knife
+item.igpickaxe.name=Imperial Gold Pickaxe
+item.igaxe.name=Imperial Gold Axe
+item.igshovel.name=Imperial Gold Shovel
+item.ighoe.name=Imperial Gold Hoe
+
+// Mixed Alloy
+item.maingot.name=Mixed Alloy Ingot
+tile.mablock.name=Mixed Alloy Block
+item.masword.name=Mixed Alloy Sword
+item.maknife.name=Mixed Alloy Knife
+
+// Stygian Iron
+item.siingot.name=Stygian Iron Ingot
+tile.siore.name=Stygian Iron Ore
+tile.siorenether.name=Stygian Iron Nether Ore
+item.sisword.name=Stygian Iron Sword
+item.siknife.name=Stygian Iron Knife
+item.sipickaxe.name=Stygian Iron Pickaxe
+item.siaxe.name=Stygian Iron Axe
+item.sishovel.name=Stygian Iron Shovel
+item.sihoe.name=Stygian Iron Hoe

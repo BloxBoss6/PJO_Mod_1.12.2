@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "group": "cbtools",
+    "pattern": [
+        "C",
+        "R",
+        "R"
+    ],
+    "key": {
+        "C": {
+            "item": "pjom:cbingot"
+        },
+        "R": {
+            "item": "pjom:cbrod"
+        }
+    },
+    "result": {
+        "item": "pjom:cbshovel",
+        "count": 1
+    }
+}
